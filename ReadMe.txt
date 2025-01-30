@@ -1,0 +1,1 @@
+This works with the Arduino IDE along with some parts such as LEDs.
