@@ -1,0 +1,4 @@
+Add python in
+
+Save info to a .txt file for what we are transmitting 
+dual com ports?
