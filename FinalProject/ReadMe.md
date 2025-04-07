@@ -1,5 +1,7 @@
 Install one pf these program onto the Arduino. There are many concepts to do - larger programs and concepts are easier to split up. The are images to help guide the users in FinalSubmissionPictures_PeterVaughanv folder.
 
+![Screenshot 2025-04-07 100606](https://github.com/user-attachments/assets/fb6b6878-16e0-4762-b4e9-0a1d75998a20)
+
 You can use the serial monitor in the Arduino IDE to keep track of the print lines and sent lines to the Arduino. Otherwise, you can use a RS232 attachment and use PuTTy or equivalent. You will need to adjust settings.
 
 Personal preference for Putty setup:
